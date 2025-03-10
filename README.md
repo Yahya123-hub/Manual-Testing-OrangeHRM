@@ -1,5 +1,3 @@
-****# OrangeHRM Manual Testing Project
-
 ## 📌 Overview
 This project showcases **manual testing** of the [OrangeHRM](https://www.orangehrm.com/) system, focusing on structured testing methodologies, defect reporting, and test documentation. The repository contains test plans, test cases, and bug reports to demonstrate proficiency in manual testing.
 
